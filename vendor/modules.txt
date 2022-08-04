@@ -790,7 +790,7 @@ gopkg.in/yaml.v2
 # gopkg.in/yaml.v3 v3.0.1
 ## explicit
 gopkg.in/yaml.v3
-# helm.sh/helm/v3 v3.9.0
+# helm.sh/helm/v3 v3.9.0 => github.com/TarasLykhenko/helm/v3 v3.9.5
 ## explicit; go 1.17
 helm.sh/helm/v3/internal/fileutil
 helm.sh/helm/v3/internal/ignore
@@ -1246,3 +1246,4 @@ sigs.k8s.io/structured-merge-diff/v4/value
 # sigs.k8s.io/yaml v1.3.0
 ## explicit; go 1.12
 sigs.k8s.io/yaml
+# helm.sh/helm/v3 => github.com/TarasLykhenko/helm/v3 v3.9.5
